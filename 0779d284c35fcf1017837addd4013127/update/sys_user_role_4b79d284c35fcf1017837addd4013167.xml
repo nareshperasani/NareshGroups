@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <federated_id>WyFkc7HStHjPDmjVfxPTjB+Tr52Y3Pdup6YiD8uL82s=</federated_id>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_2163986_naresh_0.device_management</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>device_management</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-08 13:46:56</sys_created_on>
+        <sys_id>4b79d284c35fcf1017837addd4013167</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2163986_naresh_0.device_management</sys_name>
+        <sys_package display_value="NareshGroups" source="x_2163986_naresh_0">0779d284c35fcf1017837addd4013127</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NareshGroups">0779d284c35fcf1017837addd4013127</sys_scope>
+        <sys_update_name>sys_user_role_4b79d284c35fcf1017837addd4013167</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-08 13:46:56</sys_updated_on>
+    </sys_user_role>
+</record_update>
