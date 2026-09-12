@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>description</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-09 18:50:57</sys_created_on>
+        <sys_id>58982028c313c35017837addd40131ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>description</sys_name>
+        <sys_package display_value="NareshGroups" source="x_2163986_naresh_0">d3d154a4c35f835017837addd401311a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NareshGroups">d3d154a4c35f835017837addd401311a</sys_scope>
+        <sys_update_name>sys_ui_policy_action_58982028c313c35017837addd40131ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-09 18:50:57</sys_updated_on>
+        <table>x_2163986_naresh_0_device_request</table>
+        <ui_policy display_value="Mandatory Description field">8f38a4e4c313c35017837addd4013104</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=58982028c313c35017837addd40131ce"/>
+</record_update>

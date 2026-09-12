@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-09 17:37:36</sys_created_on>
+        <sys_id>b3d7d8e0c39f835017837addd40131c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2163986_naresh_0_ai_devices.x_2163986_naresh_0.dispatch_management</sys_name>
+        <sys_package display_value="NareshGroups" source="x_2163986_naresh_0">d3d154a4c35f835017837addd401311a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NareshGroups">d3d154a4c35f835017837addd401311a</sys_scope>
+        <sys_security_acl display_value="x_2163986_naresh_0_ai_devices">33d7d8e0c39f835017837addd401318c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b3d7d8e0c39f835017837addd40131c3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-09 17:37:36</sys_updated_on>
+        <sys_user_role display_value="x_2163986_naresh_0.dispatch_management" name="x_2163986_naresh_0.dispatch_management">23d154a4c35f835017837addd4013164</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NareshGroups">d3d154a4c35f835017837addd401311a</application>
+        <file_path/>
+        <instance_id>77cad9b4fb2503dc0c92f633beefdc9b</instance_id>
+        <instance_name>dev406357</instance_name>
+        <name>sys_security_acl_role_b3d7d8e0c39f835017837addd40131c3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-09 17:37:36</sys_created_on><sys_id>b3d7d8e0c39f835017837addd40131c3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2163986_naresh_0_ai_devices.x_2163986_naresh_0.dispatch_management</sys_name><sys_package display_value="NareshGroups" source="x_2163986_naresh_0">d3d154a4c35f835017837addd401311a</sys_package><sys_policy/><sys_scope display_value="NareshGroups">d3d154a4c35f835017837addd401311a</sys_scope><sys_security_acl display_value="x_2163986_naresh_0_ai_devices">33d7d8e0c39f835017837addd401318c</sys_security_acl><sys_update_name>sys_security_acl_role_b3d7d8e0c39f835017837addd40131c3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-09 17:37:36</sys_updated_on><sys_user_role display_value="x_2163986_naresh_0.dispatch_management" name="x_2163986_naresh_0.dispatch_management">23d154a4c35f835017837addd4013164</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1293110495</payload_hash>
+        <record_name>x_2163986_naresh_0_ai_devices.x_2163986_naresh_0.dispatch_management</record_name>
+        <reverted_from/>
+        <source>e4e6d060c39f835017837addd401311e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-09 17:37:36</sys_created_on>
+        <sys_id>3bd7d8e0c39f835017837addd40131c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a0873f222d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-09 17:37:36</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>f7d7d8e0e49f83508dbb7d1b710e8ec7</update_guid>
+        <update_guid_history>f7d7d8e0e49f83508dbb7d1b710e8ec7:-1293110495</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_2163986_naresh_0_ai_devices.x_2163986_naresh_0.dispatch_management">781e29b4c35b475017837addd4013158</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-10 18:32:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>08ca7b593d4e4bb08605e8f1bc6e0a39</sys_id>
+        <sys_metadata>b3d7d8e0c39f835017837addd40131c3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2163986_naresh_0_ai_devices.x_2163986_naresh_0.dispatch_management</sys_name>
+        <sys_package display_value="NareshGroups" source="x_2163986_naresh_0">d3d154a4c35f835017837addd401311a</sys_package>
+        <sys_parent display_value="x_2163986_naresh_0_ai_devices">33d7d8e0c39f835017837addd401318c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NareshGroups">d3d154a4c35f835017837addd401311a</sys_scope>
+        <sys_scope_delete display_value="">046a26464c0842b5a2300ae1463e1bb9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_b3d7d8e0c39f835017837addd40131c3</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_b3d7d8e0c39f835017837addd40131c3">3bd7d8e0c39f835017837addd40131c8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-10 18:32:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

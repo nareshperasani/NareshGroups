@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Order AI Devices">4e1e6a59c3538b5017837addd4013175</sc_cat_item>
+        <sc_category display_value="Hardware">d258b953c611227a0146101fb1be7c31</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-12 12:31:37</sys_created_on>
+        <sys_id>b29e6a99c3538b5017837addd40131f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hardware.Order AI Devices</sys_name>
+        <sys_package display_value="NareshGroups" source="x_2163986_naresh_0">d3d154a4c35f835017837addd401311a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NareshGroups">d3d154a4c35f835017837addd401311a</sys_scope>
+        <sys_update_name>sc_cat_item_category_b29e6a99c3538b5017837addd40131f3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-12 12:31:37</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NareshGroups">d3d154a4c35f835017837addd401311a</application>
+        <file_path/>
+        <instance_id>77cad9b4fb2503dc0c92f633beefdc9b</instance_id>
+        <instance_name>dev406357</instance_name>
+        <name>sc_cat_item_category_b29e6a99c3538b5017837addd40131f3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Order AI Devices">4e1e6a59c3538b5017837addd4013175</sc_cat_item><sc_category display_value="Hardware">d258b953c611227a0146101fb1be7c31</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-12 12:31:37</sys_created_on><sys_id>b29e6a99c3538b5017837addd40131f3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Hardware.Order AI Devices</sys_name><sys_package display_value="NareshGroups" source="x_2163986_naresh_0">d3d154a4c35f835017837addd401311a</sys_package><sys_policy/><sys_scope display_value="NareshGroups">d3d154a4c35f835017837addd401311a</sys_scope><sys_update_name>sc_cat_item_category_b29e6a99c3538b5017837addd40131f3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-12 12:31:37</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1184204854</payload_hash>
+        <record_name>Hardware.Order AI Devices</record_name>
+        <reverted_from/>
+        <source>e4e6d060c39f835017837addd401311e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-12 12:31:37</sys_created_on>
+        <sys_id>7a9e6a99c3538b5017837addd40131fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a0959a13320000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-12 12:31:37</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>3a9e6a99bd538b503e42efa7432c3ff9</update_guid>
+        <update_guid_history>3a9e6a99bd538b503e42efa7432c3ff9:1184204854</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Hardware.Order AI Devices">4ffcd359c3d78b5017837addd4013160</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-12 15:54:15</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>0257c5a7fa52475cadcf6286350f7d10</sys_id>
+        <sys_metadata>b29e6a99c3538b5017837addd40131f3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hardware.Order AI Devices</sys_name>
+        <sys_package display_value="NareshGroups" source="x_2163986_naresh_0">d3d154a4c35f835017837addd401311a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NareshGroups">d3d154a4c35f835017837addd401311a</sys_scope>
+        <sys_scope_delete display_value="">046a26464c0842b5a2300ae1463e1bb9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_b29e6a99c3538b5017837addd40131f3</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_b29e6a99c3538b5017837addd40131f3">7a9e6a99c3538b5017837addd40131fa</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-12 15:54:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
