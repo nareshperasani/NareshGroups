@@ -27,10 +27,10 @@
 		g_form.showFieldMsg('choose_quantity', 'Numbers only Allowed!', 'error');
 	}else{
 		if(quantity>3){
-		g_form.setMandatory('please_provide_valid_business_justification',true);
-	}else{
-		g_form.setMandatory('please_provide_valid_business_justification',false);
-	}
+			g_form.setMandatory('please_provide_valid_business_justification',true);
+		}else{
+			g_form.setMandatory('please_provide_valid_business_justification',false);
+		}
 	}
    //Type appropriate comment here, and begin script below
    
@@ -41,7 +41,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>8af13fd9c35b8b5017837addd4013154</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Quantity Validations</sys_name>
         <sys_overrides/>
         <sys_package display_value="NareshGroups" source="x_2163986_naresh_0">d3d154a4c35f835017837addd401311a</sys_package>
@@ -49,7 +49,7 @@
         <sys_scope display_value="NareshGroups">d3d154a4c35f835017837addd401311a</sys_scope>
         <sys_update_name>catalog_script_client_8af13fd9c35b8b5017837addd4013154</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-09-12 17:39:54</sys_updated_on>
+        <sys_updated_on>2026-09-12 18:22:42</sys_updated_on>
         <table/>
         <type>onChange</type>
         <ui_type>10</ui_type>
