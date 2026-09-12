@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_2163986_naresh_0.device_management" name="x_2163986_naresh_0.device_management">23d154a4c35f835017837addd401316d</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-09 17:11:22</sys_created_on>
+        <sys_id>ebd154a4c35f835017837addd401316f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>23d154a4c35f835017837addd401316d</sys_name>
+        <sys_package display_value="NareshGroups" source="x_2163986_naresh_0">d3d154a4c35f835017837addd401311a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NareshGroups">d3d154a4c35f835017837addd401311a</sys_scope>
+        <sys_update_name>sys_embedded_help_role_ebd154a4c35f835017837addd401316f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-09 17:11:22</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
